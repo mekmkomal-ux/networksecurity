@@ -1,0 +1,5 @@
+pyhon-dotenv
+pandas
+numpy
+
+-e .
