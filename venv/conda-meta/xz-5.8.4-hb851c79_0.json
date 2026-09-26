@@ -1,5 +1,5 @@
 {
-  "build": "h53af0af_0",
+  "build": "hb851c79_0",
   "build_number": 0,
   "channel": "https://repo.anaconda.com/pkgs/main/noarch",
   "constrains": [],
@@ -8,7 +8,7 @@
     "vc >=14.3,<15",
     "vc14_runtime >=14.44.35208"
   ],
-  "extracted_package_dir": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.2-h53af0af_0",
+  "extracted_package_dir": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.4-hb851c79_0",
   "files": [
     "Library/bin/liblzma.dll",
     "Library/bin/lzmadec.exe",
@@ -55,50 +55,50 @@
     "Library/share/doc/xz/lzma-file-format.txt",
     "Library/share/doc/xz/xz-file-format.txt"
   ],
-  "fn": "xz-5.8.2-h53af0af_0.conda",
+  "fn": "xz-5.8.4-hb851c79_0.conda",
   "license": "LGPL-2.1-or-later and GPL-2.0-or-later and 0BSD",
   "link": {
-    "source": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.2-h53af0af_0",
+    "source": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.4-hb851c79_0",
     "type": 1
   },
-  "md5": "70e604035b6c97b915114912f047fb2a",
+  "md5": "b0c7a36026c7f0b764fc8118ff0bb4b4",
   "name": "xz",
-  "package_tarball_full_path": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.2-h53af0af_0.conda",
+  "package_tarball_full_path": "C:\\Users\\mskom\\anaconda3\\pkgs\\xz-5.8.4-hb851c79_0.conda",
   "paths_data": {
     "paths": [
       {
         "_path": "Library/bin/liblzma.dll",
         "path_type": "hardlink",
-        "sha256": "960b67b5188e142ae86e7a3ad0ad417a6c50e7a511b19155ad46061f46d0857f",
-        "sha256_in_prefix": "960b67b5188e142ae86e7a3ad0ad417a6c50e7a511b19155ad46061f46d0857f",
-        "size_in_bytes": 200520
+        "sha256": "ea76baa9358d94799b76850e9f7595dcb74ef73f7ae6efcf322a79a037ba4db2",
+        "sha256_in_prefix": "ea76baa9358d94799b76850e9f7595dcb74ef73f7ae6efcf322a79a037ba4db2",
+        "size_in_bytes": 201032
       },
       {
         "_path": "Library/bin/lzmadec.exe",
         "path_type": "hardlink",
-        "sha256": "d5ae78957d801aa476b4ddaa7d42ba26bd8b09d973f0cf22dfb67e15d33649aa",
-        "sha256_in_prefix": "d5ae78957d801aa476b4ddaa7d42ba26bd8b09d973f0cf22dfb67e15d33649aa",
+        "sha256": "31830cdcb07746c8f7e3d82d48ca5bbf6439bdefd2d12cce21dc208266145645",
+        "sha256_in_prefix": "31830cdcb07746c8f7e3d82d48ca5bbf6439bdefd2d12cce21dc208266145645",
         "size_in_bytes": 34632
       },
       {
         "_path": "Library/bin/lzmainfo.exe",
         "path_type": "hardlink",
-        "sha256": "f5b497ed6f1e0fa34f0b5d7faa13c8a0a77b20913cad056dc83d1190e63c94aa",
-        "sha256_in_prefix": "f5b497ed6f1e0fa34f0b5d7faa13c8a0a77b20913cad056dc83d1190e63c94aa",
+        "sha256": "4dddc31ed5b9aec5b54783ff8e7eee1dbb2ae8f5d814e56d133e00f057f1a7f0",
+        "sha256_in_prefix": "4dddc31ed5b9aec5b54783ff8e7eee1dbb2ae8f5d814e56d133e00f057f1a7f0",
         "size_in_bytes": 35656
       },
       {
         "_path": "Library/bin/xz.exe",
         "path_type": "hardlink",
-        "sha256": "6113fd58c24866b5b855d0a3cdb35d8928c91a9d8f9135025f8cee4aacefb0c0",
-        "sha256_in_prefix": "6113fd58c24866b5b855d0a3cdb35d8928c91a9d8f9135025f8cee4aacefb0c0",
-        "size_in_bytes": 93000
+        "sha256": "05a2099df5155ce7c7e261b01c981dc4c84de5624f17fa06513f51e4026600d0",
+        "sha256_in_prefix": "05a2099df5155ce7c7e261b01c981dc4c84de5624f17fa06513f51e4026600d0",
+        "size_in_bytes": 93512
       },
       {
         "_path": "Library/bin/xzdec.exe",
         "path_type": "hardlink",
-        "sha256": "05de63dbc8642410a20b08e4d340b4f21a8069fcb7636e216723c2192670dee0",
-        "sha256_in_prefix": "05de63dbc8642410a20b08e4d340b4f21a8069fcb7636e216723c2192670dee0",
+        "sha256": "ebeddb59541bf1c6cff8f687462bbcc1aa3afc473a354d1678c1dde8a9058409",
+        "sha256_in_prefix": "ebeddb59541bf1c6cff8f687462bbcc1aa3afc473a354d1678c1dde8a9058409",
         "size_in_bytes": 34632
       },
       {
@@ -139,9 +139,9 @@
       {
         "_path": "Library/include/lzma/container.h",
         "path_type": "hardlink",
-        "sha256": "c85bd006270273ef2ca8983fc7aab928ee73dc00948616b62de0278cf9cd94fc",
-        "sha256_in_prefix": "c85bd006270273ef2ca8983fc7aab928ee73dc00948616b62de0278cf9cd94fc",
-        "size_in_bytes": 41872
+        "sha256": "1cc1586e26307154822c50c477807cba245e5813a30d828eeb8fe6edfe551ee7",
+        "sha256_in_prefix": "1cc1586e26307154822c50c477807cba245e5813a30d828eeb8fe6edfe551ee7",
+        "size_in_bytes": 42082
       },
       {
         "_path": "Library/include/lzma/delta.h",
@@ -160,9 +160,9 @@
       {
         "_path": "Library/include/lzma/hardware.h",
         "path_type": "hardlink",
-        "sha256": "84a3af36971a1acc33c90305ec72f67d18bc74aa0742cef17833e023dd2992b3",
-        "sha256_in_prefix": "84a3af36971a1acc33c90305ec72f67d18bc74aa0742cef17833e023dd2992b3",
-        "size_in_bytes": 2550
+        "sha256": "2e74cb51a6ac7e062d291124cef1d101e0df30cccaff1415a31810556fedba1b",
+        "sha256_in_prefix": "2e74cb51a6ac7e062d291124cef1d101e0df30cccaff1415a31810556fedba1b",
+        "size_in_bytes": 2369
       },
       {
         "_path": "Library/include/lzma/index.h",
@@ -195,8 +195,8 @@
       {
         "_path": "Library/include/lzma/version.h",
         "path_type": "hardlink",
-        "sha256": "504a3ace4e5a4420bac57648ac3d0afc27aec79018c8f8cfe43d431f771de5df",
-        "sha256_in_prefix": "504a3ace4e5a4420bac57648ac3d0afc27aec79018c8f8cfe43d431f771de5df",
+        "sha256": "9dec302470df2f505474cad90065a12eed8f65a7944e44ae1844499e72a4bb9f",
+        "sha256_in_prefix": "9dec302470df2f505474cad90065a12eed8f65a7944e44ae1844499e72a4bb9f",
         "size_in_bytes": 3872
       },
       {
@@ -209,9 +209,9 @@
       {
         "_path": "Library/lib/cmake/liblzma/liblzma-config-version.cmake",
         "path_type": "hardlink",
-        "sha256": "e8adf3c42e0914549b632a2e06bf9e17b5b16133d174bc78aeb163133f0e698e",
-        "sha256_in_prefix": "e8adf3c42e0914549b632a2e06bf9e17b5b16133d174bc78aeb163133f0e698e",
-        "size_in_bytes": 2948
+        "sha256": "4b1f70a9987b2d477137e2ef8c54d8b8b20228e53593b9155b3d134b21572963",
+        "sha256_in_prefix": "4b1f70a9987b2d477137e2ef8c54d8b8b20228e53593b9155b3d134b21572963",
+        "size_in_bytes": 2827
       },
       {
         "_path": "Library/lib/cmake/liblzma/liblzma-config.cmake",
@@ -230,25 +230,25 @@
       {
         "_path": "Library/lib/cmake/liblzma/liblzma-targets.cmake",
         "path_type": "hardlink",
-        "sha256": "e795ee48221b4304acea5cd62d89b16ae3757637ef84e3d2f328350a9c67ed53",
-        "sha256_in_prefix": "e795ee48221b4304acea5cd62d89b16ae3757637ef84e3d2f328350a9c67ed53",
-        "size_in_bytes": 4010
+        "sha256": "6559f7f91d4f94a8847151abd28ae5313b13fdf3a15e5ff06e4b686efc18b56d",
+        "sha256_in_prefix": "6559f7f91d4f94a8847151abd28ae5313b13fdf3a15e5ff06e4b686efc18b56d",
+        "size_in_bytes": 4231
       },
       {
         "_path": "Library/lib/lzma.lib",
         "path_type": "hardlink",
-        "sha256": "313a9d10e5941683de076b3c0a033bc0592d6f2a73f884c80b4765daa67c4356",
-        "sha256_in_prefix": "313a9d10e5941683de076b3c0a033bc0592d6f2a73f884c80b4765daa67c4356",
+        "sha256": "fa7d09b8d886606f8d428bd50573ff8ec470bb10f1912f3322b29977b5ba145a",
+        "sha256_in_prefix": "fa7d09b8d886606f8d428bd50573ff8ec470bb10f1912f3322b29977b5ba145a",
         "size_in_bytes": 27382
       },
       {
         "_path": "Library/lib/pkgconfig/liblzma.pc",
         "file_mode": "text",
         "path_type": "hardlink",
-        "prefix_placeholder": "C:/Users/task_177254811485296/croot/xz_1772548373874/_h_env",
-        "sha256": "7b123ecfc02a2c3d670f1174d4ec02ce2848dc54e03ceb0f4557ddde9ae1179e",
-        "sha256_in_prefix": "67cec8483c9a7ac11f7f9a53ef7239fe0085d205cd268e1775ff9944b1ab41aa",
-        "size_in_bytes": 436
+        "prefix_placeholder": "C:/Users/task_179007426571387/croot/xz_1790074344697/_h_env",
+        "sha256": "405b4bbc19208c58dbfd29cb890c3b39bfb861ea9c95e12d1a40c7eae9d1d8b3",
+        "sha256_in_prefix": "bcd1bf051b0bd69063c86d96057f53203eb63e1eb8c507d478e196751011f21f",
+        "size_in_bytes": 451
       },
       {
         "_path": "Library/share/doc/xz/AUTHORS",
@@ -281,9 +281,9 @@
       {
         "_path": "Library/share/doc/xz/NEWS",
         "path_type": "hardlink",
-        "sha256": "8dd9b864758e9d009c0527703dd50b1f7a43a392287510b22d113125cdeb3587",
-        "sha256_in_prefix": "8dd9b864758e9d009c0527703dd50b1f7a43a392287510b22d113125cdeb3587",
-        "size_in_bytes": 118456
+        "sha256": "5849716bf4f514368c92e5e9da8228a492907fe5669f6f515f3c5af0b43cf91c",
+        "sha256_in_prefix": "5849716bf4f514368c92e5e9da8228a492907fe5669f6f515f3c5af0b43cf91c",
+        "size_in_bytes": 126391
       },
       {
         "_path": "Library/share/doc/xz/README",
@@ -295,9 +295,9 @@
       {
         "_path": "Library/share/doc/xz/THANKS",
         "path_type": "hardlink",
-        "sha256": "1c77640ab2d3a1f40b65fc1500dc5c7c91e1489b8ec445dba7619cc6f9b8ea67",
-        "sha256_in_prefix": "1c77640ab2d3a1f40b65fc1500dc5c7c91e1489b8ec445dba7619cc6f9b8ea67",
-        "size_in_bytes": 5087
+        "sha256": "231129d140a5a69d72d194cebd98194c24fc4d52dbd31b008ceb8b4a9502e95c",
+        "sha256_in_prefix": "231129d140a5a69d72d194cebd98194c24fc4d52dbd31b008ceb8b4a9502e95c",
+        "size_in_bytes": 5304
       },
       {
         "_path": "Library/share/doc/xz/examples/00_README.txt",
@@ -380,10 +380,10 @@
     "paths_version": 1
   },
   "requested_spec": "None",
-  "sha256": "e09005f52c41234213bd52ebd07092d945855b6d631dd709dcf35dbc71a15c63",
-  "size": 271653,
+  "sha256": "786d5df4b6f0097eeef2c07c642119a80b8b97ed062fd956707d2810bd15428a",
+  "size": 273475,
   "subdir": "win-64",
-  "timestamp": 1772548477000,
-  "url": "https://repo.anaconda.com/pkgs/main/win-64/xz-5.8.2-h53af0af_0.conda",
-  "version": "5.8.2"
+  "timestamp": 1790074416000,
+  "url": "https://repo.anaconda.com/pkgs/main/win-64/xz-5.8.4-hb851c79_0.conda",
+  "version": "5.8.4"
 }
